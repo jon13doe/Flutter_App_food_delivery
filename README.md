@@ -1,3 +1,2 @@
-# pizza_app
-
-A new Flutter project.
+# food delivery app
+# based on pizza delivery
